@@ -1,0 +1,11 @@
+Zadanie!
+
+Skoro pracujesz nad stroną internetową poświęconą uzależnieniom od technologii, dodajmy do niej kilka istotnych i przydatnych treści – na przykład kilka faktów, które będą wyświetlane przy każdym odświeżeniu strony!
+
+W tym celu zmodyfikujemy przykład z dokumentacji, zamieniając naszą stronę „Hello, world” na stronę, na której użytkownik po każdym odświeżeniu widzi losowy fakt! Możesz skorzystać z faktów, które podaliśmy powyżej, lub dodać własne!
+
+Aby wstawić zmienne do kodu HTML, użyjemy czegoś, co nazywa się f-string. Są one naprawdę przydatne, gdy chcesz wyświetlić coś, co może się zmienić! Możemy wstawić zmienną w nawiasy klamrowe, a jej wartość zostanie wyświetlona w ciągu znaków!
+
+Zapoznaj się z przykładem i odpowiednio zmodyfikuj swój program!
+
+return f'<p>{random.choice(facts_list)}</p>'

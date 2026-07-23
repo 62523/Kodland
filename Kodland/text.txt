@@ -1,0 +1,16 @@
+Zadanie #1
+Otwórz index.html i podaj tekst dla domów średnich i dużych
+ 
+
+
+Zadanie #2
+Otwórz lights.html. Na tej stronie znajduje się znacznik <a>. Wewnątrz tego tagu znajduje się adres URL, który przyjmuje wartość wybraną wcześniej przez użytkownika i dodaje odpowiedni współczynnik. Skorzystaj z przykładu z pierwszej karty, aby ustawić właściwy routing
+ 
+
+
+Zadanie #3
+Połączmy teraz wszystko, czego się nauczyliśmy. Plik electronics.html zawiera znaczniki <a> bez adresów. Wypełnij adresy, określ średni współczynnik pomiędzy liczbą urządzeń i zastanów się, do której zmiennej chcesz go dodać!
+ 
+
+
+Uruchom aplikację i upewnij się, że działa! Spróbuj przetestować wszystkie warianty kompilacji!
